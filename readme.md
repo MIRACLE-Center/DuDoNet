@@ -1,4 +1,5 @@
 This repo is used to prepare metal artifact dataset in [DuDoNet](https://openaccess.thecvf.com/content_CVPR_2019/html/Lin_DuDoNet_Dual_Domain_Network_for_CT_Metal_Artifact_Reduction_CVPR_2019_paper.html) and [DuDoNet++](https://link.springer.com/chapter/10.1007/978-3-030-59713-9_15). The clean and metal contaminated CT images are illustrated below, respectively. Note the red pixels indicate the metallic implants.
+
 ![GT_CT](gt_ct.png) 
 ![MA_CT](ma_ct.png) 
 
