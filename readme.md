@@ -17,4 +17,5 @@ This repo is used to prepare metal artifact dataset in [DuDoNet](https://openacc
         ...
     ```
 
+Thanks Dr. Yanbo Zhang and Dr. Hengyong Yu for providing the metal artifact synthesis code.
 
