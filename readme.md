@@ -3,7 +3,7 @@ This repo is used to prepare metal artifact dataset in [DuDoNet](https://openacc
 ![GT_CT](gt_ct.png) 
 ![MA_CT](ma_ct.png) 
 
-1.Create folders `database_MAR/images_train` and `database_MAR/images_val`.
+1. Create folders `database_MAR/images_train` and `database_MAR/images_val`.
 
 2. We put a sample image `images/000001_01_01` to run the dome `prepare_image_database.m`.
 
